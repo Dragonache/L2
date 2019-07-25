@@ -1,0 +1,27 @@
+body,
+html {
+  
+  height: 100%;
+  margin: 10;
+  }
+
+
+
+body { 
+  font-family: 'Indie Flower', cursive;
+}
+h1 {
+	color: rgb(251758);
+	text-align: center;
+	font-weight: bold;
+	font-size: 150%;
+}
+h2{
+	color: rgb(251758);
+	text-align: center;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+.btn-primary:hover{background-color: green;
+}
